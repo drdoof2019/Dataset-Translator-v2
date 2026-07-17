@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+
+# Output data
+output/
+
+# Plans (local only)
+plans/
+
+# Legacy
+legacy/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/

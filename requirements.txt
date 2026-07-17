@@ -1,0 +1,7 @@
+gradio
+datasets
+pandas
+python-dotenv
+huggingface_hub
+openai
+tabulate
